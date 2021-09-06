@@ -1,4 +1,4 @@
-# !Hola, me llamo Christian Jodra
+# Hola, me llamo Christian Jodra
 ### Desarrollador de Aplicaciones Multiplataforma
 [![Twitter Follow](https://img.shields.io/twitter/follow/jodra14?style=social)](https://twitter.com/jodra14)
 ![GitHub Followers](https://img.shields.io/github/followers/cjodra14?style=social)
