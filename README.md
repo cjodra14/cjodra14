@@ -16,6 +16,9 @@ En este perfil puedes encontrar mis diferentes proyectos, desde ejercicios de cl
 [![Instagram](https://img.shields.io/badge/Instagram-@jodra14-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/jodra14)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian_Jodra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cjodralopez/)
 
+## 💬Contacto: 
+[![Email](https://img.shields.io/badge/c.jodra14@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:c.jodra14@gmail.com)
+
 <!--
 **cjodra14/cjodra14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
