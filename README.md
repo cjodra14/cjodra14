@@ -6,11 +6,11 @@ Soy un estudiante del Grado en Desarrollo de Aplicaciones Multiplataforma.
 En este perfil puedes encontrar mis diferentes proyectos, desde ejercicios de clase hasta proyectos propios.
 
 ## 🌱Mis habilidades:
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-CC3333?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)]()
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
 
 ## 📫Puedes encontrarme en:
 [![Twitter](https://img.shields.io/badge/Twitter-@jodra14-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/jodra14)
