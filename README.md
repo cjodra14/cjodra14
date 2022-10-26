@@ -1,7 +1,7 @@
 # Hola, me llamo Christian Jodra
-### 🔭Desarrollador de Aplicaciones Multiplataforma
+### 🔭Desarrollador
 
-Soy un estudiante del Grado en Desarrollo de Aplicaciones Multiplataforma.
+Desarrollador back end en Ironchip
 
 En este perfil puedes encontrar mis diferentes proyectos, desde ejercicios de clase hasta proyectos propios.
 
