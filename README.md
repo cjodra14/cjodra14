@@ -1,9 +1,8 @@
 # Hola, me llamo Christian Jodra
 ### 🔭Desarrollador
 
-Desarrollador back end en Ironchip
+Desarrollador back-end en Ironchip
 
-En este perfil puedes encontrar mis diferentes proyectos, desde ejercicios de clase hasta proyectos propios.
 
 ## 🌱Mis habilidades:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -13,8 +12,6 @@ En este perfil puedes encontrar mis diferentes proyectos, desde ejercicios de cl
 
 
 ## 📫Puedes encontrarme en:
-[![Twitter](https://img.shields.io/badge/Twitter-@jodra14-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/jodra14)
-[![Instagram](https://img.shields.io/badge/Instagram-@jodra14-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/jodra14)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian_Jodra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cjodralopez/)
 
 ## 💬Contacto: 
