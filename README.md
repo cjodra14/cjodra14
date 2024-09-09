@@ -1,7 +1,7 @@
 # Hola, me llamo Christian Jodra
 ### 🔭Desarrollador
 
-Desarrollador back-end en Ironchip
+Golang Software Engineer en CounterCraft
 
 
 ## 🌱Mis habilidades:
